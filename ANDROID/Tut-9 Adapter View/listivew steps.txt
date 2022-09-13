@@ -1,0 +1,8 @@
+Data			Adapter				AdapterView
+
+
+create AdapterView and set its reference
+create static data list
+create item view layout (custom layout)
+create adapter class which inherited BaseAdapter
+pass datalist to adapter using constructor

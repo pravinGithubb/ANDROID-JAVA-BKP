@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="app_desc">this is a sample app demonstration</string>
+</resources>

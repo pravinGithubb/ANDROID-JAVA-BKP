@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseNofication</string>
+    <string name="label">Enter text</string>
+</resources>
